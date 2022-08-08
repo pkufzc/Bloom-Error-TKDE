@@ -31,7 +31,7 @@ The parameters setting is the same as mentioned in the paper.
 
 Suppose you've already cloned the respository and start from the `bfcode` directory.
 
-You just need:
+You just need: 
 
 	$ make
 	$ ./main {your dataset}
